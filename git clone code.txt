@@ -1,0 +1,16 @@
+https://blog.csdn.net/jasonLee_lijiaqi/article/details/79947741
+https://stackoverflow.com/questions/7860751/git-fatal-unable-to-create-path-my-project-git-index-lock-file-exists
+
+
+https://www.jianshu.com/p/803be5f58caf
+
+
+git add .
+git commit -m "introduction"
+git push origin main/master
+
+git push -u name master
+
+解决网络代理问题
+git config --global http.proxy http://127.0.0.1:7890 
+git config --global https.proxy http://127.0.0.1:7890
