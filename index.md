@@ -18,10 +18,10 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Research Interests
-- **Earthquake Engineering & Structural Dynamics:** vibration control, seismic fragility, building/bridge systems etc.
-- **Seismic Resilient Steel Structures:** low damage systems, self-centering structures, shape memory alloy etc.
-- **Steel/Concrete-Composite Structures:** high-performance materials, low-carbon construction etc.
-- **Machine Learning-Aided Structures Design:** multi-objective structural optimization etc.
+- **Earthquake Engineering & Structural Dynamics:** vibration control, seismic fragility, building/bridge systems, etc.
+- **Seismic Resilient Steel Structures:** low damage systems, self-centering structures, shape memory alloy, etc.
+- **Steel/Concrete-Composite Structures:** high-performance materials, low-carbon construction, etc.
+- **Machine Learning-Aided Structures Design:** multi-objective structural optimization, etc.
 
 
 ## Awards
