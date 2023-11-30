@@ -18,10 +18,10 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Earthquake Engineering & Structural Dynamics:** vibration control, seismic fragility, building/bridge systems
+- **Seismic Resilient Steel Structures:** low damage systems, self-centering, shape memory alloy
+- **Steel/Concrete-Composite Structures:** high-performance materials, low-carbon construction
+- **Machine Learning-Aided Structures Design:** multi-objective optimization etc.
 
 
 ## Awards
