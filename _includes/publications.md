@@ -91,7 +91,7 @@
       <a href="assets/publications/[4]/.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://ascelibrary.org/journal/jsendh" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Journal website</a>
-      <strong><i style="color:#7b5aa6">Open after admission</i></strong>
+      <strong><i style="color:#7b5aa6">Open after acceptance</i></strong>
     </div>
   </div>
 </div>
