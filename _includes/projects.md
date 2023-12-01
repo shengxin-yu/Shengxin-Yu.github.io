@@ -103,12 +103,12 @@ paper副本
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</div>
+    <div class="title"><strong><i style="color:#7b5aa6">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</i></strong></div>
     <div class="author"><strong>Supervisor:</strong> Assistant Prof. Yue Zheng, Tongji University </div>
     <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
     <div class="periodical"><em><strong>Research Outcome:</strong> Successfully delivered the project in accordance with Party A's design requirements.</em></div>
     <div class="links">
-      <a href="assets/projects/重力块ABAQUS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
+      <a href="assets/projects/UHPC/重力块ABAQUS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
       <!-- <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a> -->
