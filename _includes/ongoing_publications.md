@@ -15,8 +15,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/" target="_blank">Seismic performance assessment and numerical investigation of bridges systems with novel damping plate-restrained bearings</a></div>
     <!-- <div class="author"><strong>Shengxin Yu</strong></div> -->
-    <div class="keywords"><strong>Keywords:</strong> seismic resilience, seismic fragility, multi-stage bridge restrainer, bearing displacement, full-scale test, system-level analysis</div>
-    <div class="periodical"><em>Preparing to submit the manuscript to <strong>Earthquake Engineering & Structural Dynamics</strong> as the <strong>first author.</em></div>
+    <div class="keywords"><strong>Keywords:</strong> seismic resilience, seismic fragility, multi-stage bridge restrainer, bearing displacement, system-level analysis</div>
+    <div class="periodical"><em>Preparing to submit the manuscript to <strong>Earthquake Engineering & Structural Dynamics</strong> as the <strong>first author</strong>.</em></div>
     <!-- <div class="periodical"><em>Thomas R. Ten Have Symposium <strong>(TTHS)</strong>, Harvard University, 2023, Cambridge, MA.</em></div> -->
     <div class="links">
       <!-- <a href="assets/files/TenHave2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
