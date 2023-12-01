@@ -55,11 +55,12 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/[3]_cover.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Journal of Tongji University (EI)</abbr>
+    <abbr class="badge">Journal of Tongji University
+     (Natural Science)</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering</a></div>
+    <div class="title"><a href="assets/publications/[3]/Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering.pdf">Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering</a></div>
     <div class="author">Cheng Fang, <strong>Shengxin Yu (Corresponding author)</strong>, Yonggang Li, Wanglong Jia, Pengbo Yang, Xinyue Yang</div>
     <div class="periodical"><em><strong>Journal of Tongji University (Natural Science)(EI)</strong>, Feb. 2024.</em></div>
     <div class="links">
@@ -71,6 +72,78 @@
   </div>
 </div>
 </li>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/[4]_cover.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Journal of Structural Engineering
+     (ASCE)</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/publications/[4]/.pdf">Low Temperature Mechanical Behavior of Fe-SMA for Structural Damping</a></div>
+    <div class="author">Zhexi Zhang, Cheng Fang, Qun He, Yuanmu Li, <strong>Shengxin Yu</strong>, Haojie Niu</div>
+    <div class="periodical"><em><strong>Journal of Structural Engineering (ASCE)</strong>, Revised Manuscript Submitted.</em></div>
+    <div class="links">
+      <a href="assets/publications/[4]/.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://ascelibrary.org/journal/jsendh" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Journal website</a>
+      <strong><i style="color:#7b5aa6">Open after admission</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/publications/[patent1]/Notice of Grant of Utility Model Patent Rights.pdf" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">China Utility Model Patent</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/publications/[patent1]/patent1.pdf">A damping plate-based energy-dissipation buffer limited isolation bearing</a></div>
+    <div class="author">Yue Zheng, Cheng Fang, Zhilu Wang, <strong>Shengxin Yu</strong>, Chen Cao, Xin You, Chuansheng Sun et al</div>
+    <div class="periodical"><em><strong>China Utility Model Patent</strong>, authorized.</em></div>
+    <div class="links">
+      <a href="assets/publications/[patent1]/patent1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/publications/[patent1]/Notice of Grant of Utility Model Patent Rights.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Notification of Authorization</a>
+      <!-- <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://www.cnpat.com.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Patent website</a>
+      <!-- <strong><i style="color:#7b5aa6">Open after admission</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/[patent2]_cover.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">China Invention Patent</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/img/[patent2]_cover.jpg">A design method for seismic isolation bearing of assembly shear plate with three-stage energy dissipation, buffering, and limiting</a></div>
+    <div class="author">Yue Zheng, Cheng Fang, Zhilu Wang, <strong>Shengxin Yu</strong>, Chen Cao, Xin You, You Dong et al.</div>
+    <div class="periodical"><em><strong>China Invention Patent</strong>, publication status.</em></div>
+    <div class="links">
+      <a href="assets/img/[patent2]_cover.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Notification of Acceptance</a>
+      <!-- <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://www.cnpat.com.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Patent website</a>
+      <strong><i style="color:#7b5aa6">Open after authorization</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
 
 
 
