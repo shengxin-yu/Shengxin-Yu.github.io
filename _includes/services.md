@@ -28,5 +28,5 @@
 <h4 style="margin:0 10px 0;">Voluntary Activity</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>Participated in more than<a> 60 volunteer activities</a>, and volunteered for more than <a>240 hours </a></li>
+  <li>Participated in more than<a> 60 volunteer activities</a>, and volunteered for more than <a>240 hours.</a></li>
 </ul>
