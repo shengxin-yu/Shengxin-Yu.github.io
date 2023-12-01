@@ -25,7 +25,12 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+- **[Nov. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+
+- **[Nov. 2023]** *Outstanding Students of Tongji University* for the Academic Year 2022-2023
+- **[Oct. 2023]** <a href="https://civileng.tongji.edu.cn/fb/8b/c17998a326539/page.htm" target="_blank">*National Scholarship for Postgraduate Students*</a>  for the Academic Year 2022-2023
+- **[Jun. 2021]** *Outstanding Graduates of Liaoning Province* 
+
 
 
 <!-- {% include_relative _includes/publications.md %} -->
