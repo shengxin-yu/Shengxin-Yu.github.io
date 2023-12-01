@@ -8,17 +8,25 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Assist Supervisor in Reviewing Journals</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.frontiersin.org" target="_blank"> Frontiers in Surgery </a></li>
-  <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
+  <li><a href="https://www.sciencedirect.com/journal/case-studies-in-construction-materials" target="_blank"> Case Studies in Construction Materials </a></li>
+  <li><a href="https://www.tandfonline.com/journals/nsie20" target="_blank"> Structure and Infrastructure Engineering </a></li>
+  <li><a href="https://iopscience.iop.org/journal/0964-1726" target="_blank"> Smart Materials and Structures </a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Membership & Activities</h4>
+<h4 style="margin:0 10px 0;">Student Work and Community Service</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.amstat.org/" target="_blank"> American Statistical Association </a></li>
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.biometricsociety.org/home" target="_blank"> International Biometric Society </a></li>
-  <li><strong>[2021-2022]</strong> Chair of the <a href="https://nyu-medicine-cssa.github.io" target="_blank"> Chinese Student and Scholar Association (CSSA)</a> at Grossman School of Medicine, New York University</li>
+  <li><strong>[2019.10-2020.04]</strong> Member of<a> the Faculty Publicity Section </a></li>
+  <li><strong>[2018.03-2018.07]</strong> Deputy Director of<a> the Faculty New Media Center</a></li>
+  <li><strong>[2017.10-2018.02]</strong> <a>Community service</a></li> in Dalian, China
+  <!-- <li><strong>[2021-2022]</strong> Chair of the <a href="https://nyu-medicine-cssa.github.io" target="_blank"> Chinese Student and Scholar Association (CSSA)</a> at Grossman School of Medicine, New York University</li> -->
+</ul>
+
+<h4 style="margin:0 10px 0;">Voluntary Activity</h4>
+
+<ul style="margin:0 0 20px;">
+  <li>Participated in more than<a> 60 </a>volunteer activities, and volunteered for more than <a>240 hours </a></li>
 </ul>
