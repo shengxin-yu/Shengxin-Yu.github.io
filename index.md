@@ -66,8 +66,8 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 ## Resources
 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
+- <a href="assets/transcript/Attachment_Transcript for Graduate Student.pdf" target="_blank">*Attachment_Transcript for Graduate Student*</a> in Tongji University
+- <a href="assets/transcript/Attachment_Bachelor's Academic Transcript (Credit System).pdf" target="_blank">*Attachment_Bachelor's Academic Transcript (Credit System)*</a> in Dalian University of Technology 
 
 
 
