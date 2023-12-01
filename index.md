@@ -24,14 +24,17 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **Machine Learning-Aided Structures Design:** multi-objective structural optimization, etc.
 
 
-## Awards
-- **[Nov. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
-
-- **[Nov. 2023]** <p style="color: purple;">*Outstanding Students of Tongji University*</p> for the Academic Year 2022-2023
+## Honors and Awards
+- **[Nov. 2023]** *Outstanding Students of Tongji University* for the Academic Year 2022-2023
 - **[Oct. 2023]** <a href="https://civileng.tongji.edu.cn/fb/8b/c17998a326539/page.htm" target="_blank">*National Scholarship for Postgraduate Students*</a>  for the Academic Year 2022-2023
 - **[Jun. 2021]** *Outstanding Graduates of Liaoning Province* 
-- **[Oct. 2020]** *Large special scholarship* for outstanding research and activities (<1%, only two individuals have been awarded in the civil engineering College.)
-
+- **[Oct. 2020]** *Large special scholarship* (<1%, only two individuals have been awarded in the civil engineering College.)
+- **[Oct. 2018 & Oct. 2020]** *Outstanding Three Good Students of the School* 
+- **[Oct. 2018 & Oct. 2020]** *Study First Class Scholarship* 
+- **[Oct. 2020]** *Science and Technology Innovation Scholarship* 
+- **[Oct. 2020]** *Cultural and Sports Activity Scholarships* 
+- **[Oct. 2020]** *Social Practice Scholarship* 
+- **[Apr. 2020]** *Honorable mention* for the Mathematical Contest in Modeling (MCM)
 
 <!-- {% include_relative _includes/publications.md %} -->
 
