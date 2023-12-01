@@ -53,7 +53,7 @@ paper副本
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 
 
@@ -87,7 +87,6 @@ paper副本
 <!-- 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-->
 
 
-
 <!-- 
 项目UHPC
 -->
@@ -105,7 +104,7 @@ paper副本
     <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
     <div class="periodical"><em><strong>Research Outcome:</strong> Successfully delivered the project in accordance with Party A's design requirements.</em></div>
     <div class="links">
-    <a href="assets/projects/UHPC/重力块ABAQUS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
+    <a href="assets/projects/UHPC/Simulation of Gravity Blocks.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
       <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>

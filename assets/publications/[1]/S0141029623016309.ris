@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - Multi-stage damping plate-restrained bearings: Concepts, experimental validation, and numerical analysis
+AU  - Yu, Shengxin
+AU  - Zheng, Yue
+AU  - Fang, Cheng
+AU  - Wang, Zhilu
+JO  - Engineering Structures
+VL  - 300
+SP  - 117215
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0141-0296
+DO  - https://doi.org/10.1016/j.engstruct.2023.117215
+UR  - https://www.sciencedirect.com/science/article/pii/S0141029623016309
+KW  - Seismic isolation bearing
+KW  - Damping plate
+KW  - Multi-stage energy dissipation
+KW  - Multi-directional restraint
+KW  - Quasi-static test
+KW  - Numerical investigation
+AB  - This paper presents a novel damping plate-restrained isolation bearing (DP-bearing) that exhibits a range of advantages such as multi-stage energy dissipation, multi-directional restraining effect, and easily assembled/dismountable. The study commences with introducing the fundamental working principle of the proposed DP-bearing, followed by an investigation into the material properties of the damping plates using monotonic tensile and quasi-static cyclic tests. Subsequently, full-scale DP-bearing specimens, considering different numbers and orientations of the inserting damping plates as well as various free traveling distances (“predetermined gaps”), are tested. The test results confirm the multi-function of the damping plates which serve as energy dissipation sources and restrainers simultaneously. Prior to the predetermined gap, the load-displacement curves exhibit a rectangular shape that results from Coulomb friction. Once the gap is reached, the damping plates are activated and provide damping and restraint through shear or tension. The shear and tensile damping plates contribute to over 90% of the total horizontal peak resistance, with the former contributing to more than 70% of the energy dissipation. The study then presents a simplified numerical modeling approach, followed by design recommendations based on the simulation results. Furthermore, the numerical investigations provide supplementary evidence illustrating the effectiveness of the DP-bearing in different loading directions. The variations in the loading angle may induce a combined shear-tensile damage mode that differs from the modes observed in the tests.
+ER  - 
