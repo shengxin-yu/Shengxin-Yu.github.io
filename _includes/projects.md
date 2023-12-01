@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Projects</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -31,7 +31,7 @@
 <!-- 
 paper副本
 -->
-<li>
+<!-- <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -60,7 +60,7 @@ paper副本
 <!-- 
 项目副本
 -->
-<li>
+<!-- <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -80,12 +80,9 @@ paper副本
     </div>
   </div>
 </div>
-</li>
+</li> -->
   
-<br>
 
-</ol>
-</div>
 
 <!-- 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-->
 
@@ -95,6 +92,32 @@ paper副本
 项目UHPC
 -->
 <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/UHPC_cover.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">UHPC</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong><i style="color:#7b5aa6">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</i></strong></div>
+    <div class="author"><strong>Supervisor:</strong> Assistant Prof. Yue Zheng, Tongji University </div>
+    <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
+    <div class="periodical"><em><strong>Research Outcome:</strong> Successfully delivered the project in accordance with Party A's design requirements.</em></div>
+    <div class="links">
+    <a href="assets/projects/UHPC/重力块ABAQUS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
+      <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<!-- <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -115,8 +138,15 @@ paper副本
     </div>
   </div>
 </div>
-</li>
-  
+</li> -->
+
+
+
+
+<!-- 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-->
+
+
+
 <br>
 
 </ol>
