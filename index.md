@@ -43,9 +43,22 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 {% include_relative _includes/ongoing_publications.md %}
 
 
+## Abilities
+<h4 style="margin:0 10px 0;">Software Skills</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a>Abaqus, OpenSees, MATLAB, Pycharm, AutoCAD, SOLIDWORKS, Origin, etc.</a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Computer Language</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a>Python Language, TCL Language, C Language, etc.</a></li>
+</ul>
 
 
- ## My Life
+
+<!-- ## My Life -->
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
