@@ -80,7 +80,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/[4]_cover.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Journal of Structural<br> Engineering (ASCE)</abbr>
+    <abbr class="badge">Journal of Structural Engineering<br> (ASCE)</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -102,7 +102,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/publications/[patent1]/Notice of Grant of Utility Model Patent Rights.tif" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/[patent1]_cover.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">China Utility Model Patent</abbr>
   </div>
 
@@ -125,7 +125,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/[patent2]_cover.tif" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/[patent2]_cover.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">China Invention Patent</abbr>
   </div>
 
