@@ -28,15 +28,13 @@
 </div>
 </li> -->
 
-<!-- 
-paper副本
--->
+
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/UHPC_cover.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">UHPC</abbr>
+    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -54,12 +52,8 @@ paper副本
   </div>
 </div>
 </li>
+  
 
-
-
-<!-- 
-项目副本
--->
 <li>
 <div class="pub-row">
 
@@ -77,41 +71,6 @@ paper副本
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
-    </div>
-  </div>
-</div>
-</li>
-  
-<br>
-
-</ol>
-</div>
-
-<!-- 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-->
-
-
-
-<!-- 
-项目UHPC
--->
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/UHPC_cover.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">UHPC</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</div>
-    <div class="author"><strong>Supervisor:</strong> Assistant Prof. Yue Zheng, Tongji University </div>
-    <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
-    <div class="periodical"><em><strong>Research Outcome:</strong> Successfully delivered the project in accordance with Party A's design requirements.</em></div>
-    <div class="links">
-      <a href="assets/projects/重力块ABAQUS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
-      <!-- <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a> -->
     </div>
   </div>
 </div>
