@@ -86,6 +86,48 @@ paper副本
 
 <!-- 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-->
 
+<!-- 
+项目DP-bearing
+-->
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/projects/DP-bearing/DP-bearing_cover.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">DP-bearing</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a>Design, Experiment and Simulation of Novel Multi-stage Isolation Bearings</a></div>
+    <!-- <div class="title"><strong><i style="color:#7b5aa6">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</i></strong></div> -->
+    <div class="author"><strong>Supervisor:</strong> Prof. Cheng Fang & Assistant Prof. Yue Zheng, Tongji University </div>
+    <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
+    <div class="periodical"><em><strong>Research Findings:</strong> Journals [1]-accepted[Click here](https://shengxinyu.netlify.app/#Journal_[1])
+ and [2]-ongoing, Patents [1]- authorized and [2]-ongoing.</em></div>
+    <div class="links">
+    <a href="assets/projects/UHPC/Simulation of Gravity Blocks.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
+      <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 项目UHPC
