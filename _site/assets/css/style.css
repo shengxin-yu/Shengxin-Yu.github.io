@@ -12,6 +12,28 @@ body {
   display: flex;
   align-items: center; }
 
+
+
+.gallery-container {
+    width: 100%; /* 容器宽度 */
+    overflow-x: scroll; /* 启用水平滚动 */
+    white-space: nowrap; /* 保持图像在一行显示 */
+}
+
+.gallery-slider img {
+    width: 100%; /* 图像宽度 */
+    height: auto; /* 图像高度自动调整 */
+    display: inline-block; /* 图像水平排列 */
+}
+
+@media (max-width: 768px) {
+    .gallery-slider img {
+        width: 50%; /* 移动设备上的图像宽度调整 */
+    }
+}
+
+
+
 a.no-color {
   color: unset !important; }
 
