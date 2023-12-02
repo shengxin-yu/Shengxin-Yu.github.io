@@ -112,14 +112,23 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
   <!-- <li> -->
     <div class="gallery-container">
         <div class="gallery-slider">
-            <iframe src="assets/img/mylife/校园1.mp4" frameborder="0" width="700" height="400" allowfullscreen> </iframe>
+            <!-- <iframe src="assets/img/mylife/校园1.mp4" frameborder="0" width="700" height="400" allowfullscreen> </iframe> -->
             <img src="assets/img/mylife/盐城1.jpg" alt="0"> 
             <img src="assets/img/[1]_cover.jpg" alt="Image 1">
             <img src="assets/img/[2]_cover.jpg" alt="Image 2">
-            <img src="assets/img/[3]_cover.jpg" alt="Image 2">
-            <img src="assets/img/[4]_cover.jpg" alt="Image 2">
-            <img src="assets/img/[5]_cover.jpg" alt="Image 2">
+            <img src="assets/img/[3]_cover.jpg" alt="Image 3">
+            <img src="assets/img/[4]_cover.jpg" alt="Image 4">
+            <img src="assets/img/[5]_cover.jpg" alt="Image 5">
             <!-- 更多图像 -->
+            <video controls>
+            <source src="assets/img/mylife/校园1.mp4" type="video/mp4">
+            您的浏览器不支持视频标签。
+            </video>
+            <video controls>
+            <source src="assets/img/mylife/校园2.mp4" type="video/mp4">
+            您的浏览器不支持视频标签。
+            </video>
+            <!-- 更多视频 -->
         </div>
     </div>
 
