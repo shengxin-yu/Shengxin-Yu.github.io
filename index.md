@@ -108,20 +108,22 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 
 
 ## My Life
-<h4 style="margin:0 10px 0;">Voluntary Activities</h4>
+<h4 style="margin:0 10px 0;">Travel</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>I like to help others and meet new friends, and I have participated in varous volunteer activities.</li>
-  <!-- <li> -->
+  <!-- <li>I like to help others and meet new friends, and I have participated in varous volunteer activities.</li> -->
+  <li>
     <div class="gallery-container">
         <div class="gallery-slider">
             <!-- <iframe src="assets/img/mylife/校园1.mp4" frameborder="0" width="700" height="400" allowfullscreen> </iframe> -->
             <img src="assets/img/mylife/盐城1.jpg" alt="0"> 
-            <img src="assets/img/[1]_cover.jpg" alt="Image 1">
-            <img src="assets/img/[2]_cover.jpg" alt="Image 2">
-            <img src="assets/img/[3]_cover.jpg" alt="Image 3">
-            <img src="assets/img/[4]_cover.jpg" alt="Image 4">
-            <img src="assets/img/[5]_cover.jpg" alt="Image 5">
+            <img src="assets/img/mylife/旅行1.jpg" alt="Image 1">
+            <img src="assets/img/mylife/旅行2.jpg" alt="Image 2">
+            <img src="assets/img/mylife/旅行3.jpg" alt="Image 3">
+            <img src="assets/img/mylife/旅行4.jpg" alt="Image 4">
+            <img src="assets/img/mylife/旅行5.jpg" alt="Image 5">
+            <img src="assets/img/mylife/旅行6.jpg" alt="Image 6">
+            <img src="assets/img/mylife/旅行7.jpg" alt="Image 7">
             <!-- 更多图像 -->
             <!-- <video controls>
             <source src="assets/img/mylife/校园1.mp4" type="video/mp4">
@@ -136,6 +138,6 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
     </div>
 
 
-  <!-- </li> -->
+  </li>
 
 </ul>
