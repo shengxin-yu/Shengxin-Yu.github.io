@@ -38,7 +38,7 @@
       <!-- <abbr class="badge">UHPC</abbr> -->
     <!-- </div>
     <div> -->
-      <img src="assets/img/service/志愿2.png" alt="1">
+      <img src="assets/img/service/志愿2.jpg" alt="1">
       <!-- <abbr class="badge">UHPC</abbr> -->
     </div> 
     <div>
@@ -54,7 +54,7 @@
       <!-- <abbr class="badge">UHPC</abbr> -->
     <!-- </div>
     <div> -->
-      <img src="assets/img/service/志愿6.png" alt="5">
+      <img src="assets/img/service/志愿6.jpg" alt="5">
       <!-- <abbr class="badge">UHPC</abbr> -->
     </div>    
   </div>
