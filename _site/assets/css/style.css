@@ -22,9 +22,10 @@ body {
 
 .gallery-slider img,
 .gallery-slider video { /* 应用相同的样式到图片和视频 */
-    max-width: 100%; /* 最大宽度 */
+    max-width: 50%; /* 设置固定宽度300px，或最大宽度100% */
     height: auto; /* 自动高度 */
     display: inline-block;
+    vertical-align: top; /* 对齐顶部，确保在同一行 */
 }
 
 @media (max-width: 768px) {
