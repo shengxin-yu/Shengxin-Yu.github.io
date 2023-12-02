@@ -120,14 +120,14 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
             <img src="assets/img/[4]_cover.jpg" alt="Image 4">
             <img src="assets/img/[5]_cover.jpg" alt="Image 5">
             <!-- 更多图像 -->
-            <video controls>
+            <!-- <video controls>
             <source src="assets/img/mylife/校园1.mp4" type="video/mp4">
             您的浏览器不支持视频标签。
             </video>
             <video controls>
             <source src="assets/img/mylife/校园2.mp4" type="video/mp4">
             您的浏览器不支持视频标签。
-            </video>
+            </video> -->
             <!-- 更多视频 -->
         </div>
     </div>
