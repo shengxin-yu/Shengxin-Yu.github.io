@@ -29,41 +29,37 @@
 
 <ul style="margin:0 0 20px;">
   <li>I like to help others and meet new friends, and I have participated in varous volunteer activities.</li>
-  <li>
+  <!-- <li> -->
   <div class="pub-row">
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="assets/img/UHPC_cover.jpg" class="teaser img-fluid z-depth-1">
-      <abbr class="badge">UHPC</abbr>
+    <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;"> -->
+    <div>
+      <!-- <img src="assets/img/UHPC_cover.jpg" class="teaser img-fluid z-depth-1"> -->
+      <img src="assets/img/UHPC_cover.jpg" alt="0">
+      <!-- <abbr class="badge">UHPC</abbr> -->
     </div>
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="assets/img/[1]_cover.jpg" class="teaser img-fluid z-depth-1">
-      <abbr class="badge">UHPC</abbr>
-      <br>
+    <div>
+      <img src="assets/img/[1]_cover.jpg" alt="1">
+      <!-- <abbr class="badge">UHPC</abbr> -->
     </div> 
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="assets/img/[2]_cover.jpg" class="teaser img-fluid z-depth-1">
-      <abbr class="badge">UHPC</abbr>
+    <div>
+      <img src="assets/img/[2]_cover.jpg" alt="2">
+      <!-- <abbr class="badge">UHPC</abbr> -->
     </div>
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="assets/img/[3]_cover.jpg" class="teaser img-fluid z-depth-1">
-      <abbr class="badge">UHPC</abbr>
-      <br>
+    <div>
+      <img src="assets/img/[3]_cover.jpg" alt="3">
+      <!-- <abbr class="badge">UHPC</abbr> -->
     </div> 
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="assets/img/[4]_cover.jpg" class="teaser img-fluid z-depth-1">
-      <abbr class="badge">UHPC</abbr>
+    <div>
+      <img src="assets/img/[4]_cover.jpg" alt="4">
+      <!-- <abbr class="badge">UHPC</abbr> -->
     </div>
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="assets/img/[5]_cover.jpg" class="teaser img-fluid z-depth-1">
-      <abbr class="badge">UHPC</abbr>
-    </div>   
-
-
-    
-     
+    <div>
+      <img src="assets/img/[5]_cover.jpg" alt="5">
+      <!-- <abbr class="badge">UHPC</abbr> -->
+    </div>    
   </div>
-  </li>
-  
+  <!-- </li> -->
+
 </ul>
 
 
