@@ -19,9 +19,9 @@
 <h4 style="margin:0 10px 0;">Student Work and Community Service</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2019.10-2020.04]</strong> <a>Community service</a> in Dalian, China</li> 
-  <li><strong>[2018.03-2018.07]</strong> Deputy Director of<a> the Faculty New Media Center</a></li>
-  <li><strong>[2017.10-2018.02]</strong> Member of<a> the Faculty Publicity Section </a></li>
+  <li><strong>[2019.10-2020.04]</strong> Community service in Dalian, China</li> 
+  <li><strong>[2018.03-2018.07]</strong> Deputy Director of the Faculty New Media Center</li>
+  <li><strong>[2017.10-2018.02]</strong> Member of the Faculty Publicity Section</li>
   <!-- <li><strong>[2021-2022]</strong> Chair of the <a href="https://nyu-medicine-cssa.github.io" target="_blank"> Chinese Student and Scholar Association (CSSA)</a> at Grossman School of Medicine, New York University</li> -->
 </ul>
 

@@ -70,7 +70,8 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
     <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;"> -->
     <!-- <div> -->
       <!-- <img src="assets/img/UHPC_cover.jpg" class="teaser img-fluid z-depth-1"> -->
-      <img src="assets/img/UHPC_cover.jpg" alt="0">
+      <iframe src="assets/img/mylife/校园1.mp4" frameborder="0" width="700" height="400" allowfullscreen> </iframe>   
+      <img src="assets/img/mylife/盐城1.jpg" alt="0">
       <!-- <abbr class="badge">UHPC</abbr> -->
     <!-- </div>
     <div> -->
