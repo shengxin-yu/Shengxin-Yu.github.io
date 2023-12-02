@@ -36,7 +36,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><h2 id="publication_Journal_[1]">Journal_[1]<em><a href="https://shengxinyu.netlify.app/#project_Journal_[1]">[Link to project]</a></em></h2> <a href="https://www.sciencedirect.com/science/article/pii/S0141029623016309?via%3Dihub"> Multi-stage damping plate-restrained bearings: Concepts, experimental validation, and numerical analysis</a></div>
+    <div class="title"><h2 id="publication_Journal_[1]">Journal_[1]<em><a href="https://shengxinyu.netlify.app/#project_Journal_[1]">    [Link to project]</a></em></h2> <a href="https://www.sciencedirect.com/science/article/pii/S0141029623016309?via%3Dihub"> Multi-stage damping plate-restrained bearings: Concepts, experimental validation, and numerical analysis</a></div>
     <div class="author"><strong>Shengxin Yu</strong>, Yue Zheng, Cheng Fang, Zhilu Wang</div>
     <div class="periodical"><em><strong>Engineering Structures</strong>, Feb. 2024.</em></div>
     <div class="links">

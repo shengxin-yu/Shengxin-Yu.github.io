@@ -94,7 +94,7 @@ paper副本
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/projects/DP-bearing/DP-bearing_cover.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">DP-bearing</abbr>
+    <abbr class="badge"><p id="project_Journal_[1]">DP-bearing</p></abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -102,7 +102,7 @@ paper副本
     <!-- <div class="title"><strong><i style="color:#7b5aa6">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</i></strong></div> -->
     <div class="author"><strong>Supervisor:</strong> Prof. Cheng Fang & Assistant Prof. Yue Zheng, Tongji University </div>
     <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
-    <div class="periodical"><strong>Research Findings:</strong> Journals <p id="project_Journal_[1]">[1]-accepted</p><em><a href="https://shengxinyu.netlify.app/#publication_Journal_[1]">[Link]</a></em> and [2]-ongoing, Patents [1]- authorized and [2]-ongoing.</div>
+    <div class="periodical"><strong>Research Findings:</strong> Journals [1]-accepted<em><a href="https://shengxinyu.netlify.app/#publication_Journal_[1]">[Link]</a></em> and [2]-ongoing, Patents [1]- authorized and [2]-ongoing.</div>
     <div class="links">
     <a href="assets/projects/UHPC/Simulation of Gravity Blocks.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
       <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
