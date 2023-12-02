@@ -124,11 +124,19 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 {% include_relative _includes/services.md %}
 
 
-## Resources
+## More Information
+<h4 style="margin:0 10px 0;">Education</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><strong>[2021.09-]</strong> <a>Master Candidate</a> Department of Structural Engineering, Tongji University, China<br>Supervisor: <a href="https://faculty-civileng.tongji.edu.cn/fangcheng/en/index.htm" target="_blank">Prof. Cheng Fang</a>; Associate Supervisor: <a href="https://faculty-civileng.tongji.edu.cn/zhengyue/en /index.htm" target="_blank">Assistant Prof. Yue Zheng</a> <br> GPA: <a href="assets/transcript/Attachment_Transcript for Graduate Student.pdf" target="_blank">4.87 / 5.0</a><br> Representative course scores: Earthquake engineering(95), Engineering Ethics(100), Research progress and research method in Civil Engineering(98), Dynamics of Structures(93), Professional English(94), Advanced concrete structure theory(91), etc.</li> 
+  <li><strong>[2017.09-2021.06]</strong> <a>Bachelor Degree</a> School of Civil Engineering, Dalian University of Technology, China<br> Average Score: <a href="assets/transcript/Attachment_Bachelor's Academic Transcript (Credit System).pdf" target="_blank">89 / 100 (top 3%)</a><br> Representative course scores: Advanced Mathematics(97), MECHANICS OF MATERIALS(98), Building Material(96), Structure Mechanics(92), Steel Structure A(94), Theoretical Mechanics(92), Reinforced concrete structure 2(97), Surveying(96), etc.</li>
+  <li><strong>[English Proficiency]</strong> IELTS (Academic Module): 6, preparing for a higher score</li>
+  <!-- <li><strong>[2021-2022]</strong> Chair of the <a href="https://nyu-medicine-cssa.github.io" target="_blank"> Chinese Student and Scholar Association (CSSA)</a> at Grossman School of Medicine, New York University</li> -->
+</ul>
 
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="assets/transcript/Attachment_Transcript for Graduate Student.pdf" target="_blank">*Attachment_Transcript for Graduate Student*</a> in Tongji University
-- <a href="assets/transcript/Attachment_Bachelor's Academic Transcript (Credit System).pdf" target="_blank">*Attachment_Bachelor's Academic Transcript (Credit System)*</a> in Dalian University of Technology 
+<!-- - <a href="assets/transcript/Attachment_Transcript for Graduate Student.pdf" target="_blank">*Attachment_1_Transcript for Graduate Student*</a> in Tongji University
+- <a href="assets/transcript/Attachment_Bachelor's Academic Transcript (Credit System).pdf" target="_blank">*Attachment_2_Bachelor's Academic Transcript (Credit System)*</a> in Dalian University of Technology  -->
 
 
 

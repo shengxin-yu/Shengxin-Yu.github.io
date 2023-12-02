@@ -1,4 +1,4 @@
-<h2 id="Ongoing publications" style="margin: 2px 0px -15px;">Ongoing publications</h2>
+<h2 id="Ongoing Publications" style="margin: 2px 0px -15px;">Ongoing Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -42,7 +42,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/" target="_blank">A feasibility study of using novel SMA components for enhancing both structural robustness and seismic resilience</a></div>
+    <div class="title"><a href="assets/files/" target="_blank">A feasibility study of using novel SMA components for *</a></div>
+    <!-- enhancing both structural robustness and seismic resilience -->
     <!-- <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div> -->
     <div class="keywords"><strong>Keywords:</strong> novel SMA, seismic resilience, structural robustness, beam-column connection, cycle test</div>
     <div class="periodical"><em>(Preparing to write and plan to submit the manuscript to <strong>Journal of Structural Engineering (ASCE)</strong> as the <strong>second author/corresponding author</strong> before Feb. 2024.)</em></div>
