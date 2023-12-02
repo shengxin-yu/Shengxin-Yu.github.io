@@ -1,6 +1,7 @@
 ---
 layout: homepage
 ---
+## Welcome to my homepage!
 
 ## About Me
 
@@ -8,7 +9,7 @@ I’m a Ph.D. candidate in Civil Engineering at <a href="https://www.tongji.edu.
 
 Since entering the master's program, I have won the <a href="https://civileng.tongji.edu.cn/fb/8b/c17998a326539/page.htm" target="_blank"> National Scholarship for Postgraduate Students</a> and the honorary title of Outstanding Student of Tongji University. I was first involved in research on applying deep learning-based computer vision techniques to structural health monitoring. From the autumn of 2022, I started to take charge of the project of new seismic isolation structures, where I explored and continued my research interest in novel structures with seismic resilience. At present, I have accumulated some research findings. But I feel that the most important thing is that my scientific research, communication, goal planning and problem-solving skills have been greatly improved, and I believe that I can be qualified for many civil engineering-related doctoral project.
 
-In addition, before joining the master's program, I obtained a bachelor's degree in civil engineering from<a href="https://www.dlut.edu.cn/" target="_blank"> Dalian University of Technology</a>. During this period, I received many honors and awards, such as the honorary title of outstanding graduates of Liaoning Province and a large scholarship (only two people in the entire department received it), twice the title of the school's top three students, multiple single-category scholarships, etc.
+In addition, before joining the master's program, I obtained a bachelor's degree in civil engineering from<a href="https://www.dlut.edu.cn/" target="_blank"> Dalian University of Technology</a>. During this period, I received many honors and awards, such as the honorary title of outstanding graduates of Liaoning Province and a<a href="https://www.dlut.edu.cn/" target="_blank"> large special scholarship</a> (only 38 people in the school obtained it, accounting for less than 0.2%), twice the title of the school's top three students, multiple single-category scholarships, etc.
 
 In my life, I am a sunny, strong-minded, and optimistic person. I like traveling, climbing, and playing badminton. I have family and friends who love me and whom I love. I believe no pain no gain, I will continue to work hard!
 
@@ -24,9 +25,10 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 
 ## Honors and Awards
 - **[Nov. 2023]** *Outstanding Students of Tongji University* for the Academic Year 2022-2023
-- **[Oct. 2023]** <a href="https://civileng.tongji.edu.cn/fb/8b/c17998a326539/page.htm" target="_blank">*National Scholarship for Postgraduate Students*</a>  for the Academic Year 2022-2023
+- **[Oct. 2023]** <a href="https://civileng.tongji.edu.cn/fb/8b/c17998a326539/page.htm" target="_blank">*National Scholarship for Postgraduate Students*</a> for the Academic Year 2022-2023
 - **[Jun. 2021]** *Outstanding Graduates of Liaoning Province* 
-- **[Oct. 2020]** *Large special scholarship* (<1%, only two individuals have been awarded in the College of Civil Engineering.)
+- **[Jun. 2021]** *Outstanding graduates of Dalian University of Technology*
+- **[Oct. 2020]** <a href="http://edf.dlut.edu.cn/info/1027/3281.htm?ivk_sa=1024320u" target="_blank">*Large special scholarship*</a> (only 38 people in the school obtained it, accounting for less than 0.2%)
 - **[Oct. 2018 & Oct. 2020]** *Outstanding Three Good Students of the School* 
 - **[Oct. 2018 & Oct. 2020]** *Study First Class Scholarship* 
 - **[Oct. 2020]** *Science and Technology Innovation Scholarship* 
@@ -58,7 +60,9 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 
 
 
-<!-- ## My Life -->
+## My Life
+
+
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
