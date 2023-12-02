@@ -212,7 +212,7 @@ paper副本
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/projects/Sandwich structure/Sandwich structure_cover.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Sandwich structure</abbr>
+    <abbr class="badge">Sandwich Structure</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
