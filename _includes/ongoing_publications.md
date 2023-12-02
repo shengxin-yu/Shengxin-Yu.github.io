@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/" target="_blank">Seismic performance assessment and numerical investigation of bridges systems with novel damping plate-restrained bearings</a></div>
+    <div class="title"><h2 id="Publication_Journal_[2]">Journal_[2]<em><a href="https://shengxinyu.netlify.app/#Project_DP-bearing">    [Link to project]</a></em></h2> <a href="assets/files/" target="_blank">Seismic performance assessment and numerical investigation of bridges systems with novel damping plate-restrained bearings</a></div>
     <!-- <div class="author"><strong>Shengxin Yu</strong></div> -->
     <div class="keywords"><strong>Keywords:</strong> seismic resilience, seismic fragility, multi-stage bridge restrainer, bearing displacement, system-level analysis</div>
     <div class="periodical"><em>(Preparing to submit the manuscript to <strong>Earthquake Engineering & Structural Dynamics</strong> as the <strong>first author</strong> before Jan. 2024.)</em></div>
@@ -42,7 +42,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/" target="_blank">A feasibility study of using novel SMA components for *</a></div>
+    <div class="title"><h2 id="Publication_Journal_[5]">Journal_[5]<em><a href="https://shengxinyu.netlify.app/#Project_Fe-SMA">    [Link to project]</a></em></h2><a href="assets/files/" target="_blank">A feasibility study of using novel SMA components for *</a></div>
     <!-- enhancing both structural robustness and seismic resilience -->
     <!-- <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div> -->
     <div class="keywords"><strong>Keywords:</strong> novel SMA, seismic resilience, structural robustness, beam-column connection, cycle test</div>
@@ -70,7 +70,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/" target="_blank">Seismic resilience of bridge systems with self-centering energy-dissipative SMA restrainers</a></div>
+    <div class="title"><h2 id="Publication_Journal_[6]">Journal_[6]<em><a href="https://shengxinyu.netlify.app/#Project_Ring Spring Damper">    [Link to project]</a></em></h2><a href="assets/files/" target="_blank">Seismic resilience of bridge systems with self-centering energy-dissipative SMA restrainers</a></div>
     <div class="keywords"><strong>Keywords:</strong> self-centering, SMA restrainers, system-level analysis</div>
     <!-- <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div> -->
     <div class="periodical"><em>(Preparing to write and plan to submit the manuscript to <strong>Soil Dynamics and Earthquake Engineering</strong> as the <strong>first author</strong> before Apr. 2024.)</em></div>
@@ -96,7 +96,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/" target="_blank">Flexural performance and intensity prediction of sandwich structures</a></div>
+    <div class="title"><h2 id="Publication_Journal_[7]">Journal_[7]<em><a href="https://shengxinyu.netlify.app/#Project_Sandwich structure">    [Link to project]</a></em></h2><a href="assets/files/" target="_blank">Flexural performance and intensity prediction of sandwich structures</a></div>
     <div class="keywords"><strong>Keywords:</strong> E36, sandwich structure, bending resistance test</div>
     <!-- <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div> -->
     <div class="periodical"><em>(Preparing to write and plan to submit the manuscript to <strong>Ocean Engineering</strong> as the <strong>first author</strong> before Jun. 2024.)</em></div>

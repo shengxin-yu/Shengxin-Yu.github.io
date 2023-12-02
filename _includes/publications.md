@@ -62,7 +62,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/publications/[3]/Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering.pdf">Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering</a></div>
+    <div class="title"><h2 id="Publication_Journal_[3]">Journal_[3]<em><a href="https://shengxinyu.netlify.app/#Project_Deep learning">    [Link to project]</a></em></h2> <a href="assets/publications/[3]/Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering.pdf">Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering</a></div>
     <div class="author">Cheng Fang, <strong>Shengxin Yu (Corresponding author)</strong>, Yonggang Li, Wanglong Jia, Pengbo Yang, Xinyue Yang</div>
     <div class="periodical"><em><strong>Journal of Tongji University (Natural Science)(EI)</strong>, Feb. 2024.</em></div>
     <div class="links">
@@ -86,7 +86,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/publications/[4]/.pdf">Low Temperature Mechanical Behavior of Fe-SMA for Structural Damping</a></div>
+    <div class="title"><h2 id="Publication_Journal_[4]">Journal_[4]<em><a href="https://shengxinyu.netlify.app/#Project_Fe-SMA">    [Link to project]</a></em></h2> <a href="assets/publications/[4]/.pdf">Low Temperature Mechanical Behavior of Fe-SMA for Structural Damping</a></div>
     <div class="author">Zhexi Zhang, Cheng Fang, Qun He, Yuanmu Li, <strong>Shengxin Yu</strong>, Haojie Niu</div>
     <div class="periodical"><em><strong>Journal of Structural Engineering (ASCE)</strong>, Revised Manuscript Submitted.</em></div>
     <div class="links">
@@ -109,7 +109,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/publications/[patent1]/patent1.pdf">A damping plate-based energy-dissipation buffer limited isolation bearing</a></div>
+    <div class="title"><h2 id="Publication_Patent_[1]">Patent_[1]<em><a href="https://shengxinyu.netlify.app/#Project_DP-bearing">    [Link to project]</a></em></h2> <a href="assets/publications/[patent1]/patent1.pdf">A damping plate-based energy-dissipation buffer limited isolation bearing</a></div>
     <div class="author">Yue Zheng, Cheng Fang, Zhilu Wang, <strong>Shengxin Yu</strong>, Chen Cao, Xin You, Chuansheng Sun et al</div>
     <div class="periodical"><em><strong>China Utility Model Patent</strong>, authorized.</em></div>
     <div class="links">
@@ -132,7 +132,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/img/[patent2]_cover.jpg">A design method for seismic isolation bearing of assembly shear plate with three-stage energy dissipation, buffering, and limiting</a></div>
+    <div class="title"><h2 id="Publication_Patent_[2]">Patent_[2]<em><a href="https://shengxinyu.netlify.app/#Project_DP-bearing">    [Link to project]</a></em></h2><a href="assets/img/[patent2]_cover.jpg">A design method for seismic isolation bearing of assembly shear plate with three-stage energy dissipation, buffering, and limiting</a></div>
     <div class="author">Yue Zheng, Cheng Fang, Zhilu Wang, <strong>Shengxin Yu</strong>, Chen Cao, Xin You, You Dong et al.</div>
     <div class="periodical"><em><strong>China Invention Patent</strong>, publication status.</em></div>
     <div class="links">
