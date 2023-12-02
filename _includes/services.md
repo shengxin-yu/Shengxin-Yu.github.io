@@ -38,8 +38,8 @@
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="assets/img/[1]_cover.jpg" class="teaser img-fluid z-depth-1">
       <abbr class="badge">UHPC</abbr>
+      <br>
     </div> 
-    <br>
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="assets/img/[2]_cover.jpg" class="teaser img-fluid z-depth-1">
       <abbr class="badge">UHPC</abbr>
@@ -47,8 +47,8 @@
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="assets/img/[3]_cover.jpg" class="teaser img-fluid z-depth-1">
       <abbr class="badge">UHPC</abbr>
+      <br>
     </div> 
-    <br>
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="assets/img/[4]_cover.jpg" class="teaser img-fluid z-depth-1">
       <abbr class="badge">UHPC</abbr>
