@@ -187,7 +187,7 @@ paper副本
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><h2 id="Project_Ring Spring Damper">Ring Spring Damper</h2><a>Ring Spring Damper</a></div>
+    <div class="title"><h2 id="Project_Ring Spring Damper">Project_Ring Spring Damper</h2><a>Ring Spring Damper</a></div>
     <!-- <div class="title"><strong><i style="color:#7b5aa6">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</i></strong></div> -->
     <div class="author"><strong>Supervisor:</strong> Prof. Cheng Fang, Tongji University </div>
     <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
@@ -216,7 +216,7 @@ paper副本
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><h2 id="Project_Sandwich structure">Sandwich structure</h2><a>Sandwich structure</a></div>
+    <div class="title"><h2 id="Project_Sandwich structure">Project_Sandwich structure</h2><a>Sandwich structure</a></div>
     <!-- <div class="title"><strong><i style="color:#7b5aa6">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</i></strong></div> -->
     <div class="author"><strong>Supervisor:</strong> Doctoral student Yuelin Zhang, Tongji University </div>
     <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
@@ -249,7 +249,7 @@ paper副本
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</a></div>
+    <div class="title"><h2 id="Project_Sandwich structure">Project_UHPC</h2><a>Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</a></div>
     <!-- <div class="title"><strong><i style="color:#7b5aa6">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</i></strong></div> -->
     <div class="author"><strong>Supervisor:</strong> Assistant Prof. Yue Zheng, Tongji University </div>
     <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
