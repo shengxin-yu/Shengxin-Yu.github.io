@@ -36,7 +36,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><h2 id="Journal_[1]">Journal_[1]</h2>: <a href="https://www.sciencedirect.com/science/article/pii/S0141029623016309?via%3Dihub">Multi-stage damping plate-restrained bearings: Concepts, experimental validation, and numerical analysis</a></div>
+    <div class="title"><h2 id="publication_Journal_[1]">Journal_[1]</h2> <a href="https://www.sciencedirect.com/science/article/pii/S0141029623016309?via%3Dihub"><a href="https://shengxinyu.netlify.app/#project_Journal_[1]">[Link to project]</a> Multi-stage damping plate-restrained bearings: Concepts, experimental validation, and numerical analysis</a></div>
     <div class="author"><strong>Shengxin Yu</strong>, Yue Zheng, Cheng Fang, Zhilu Wang</div>
     <div class="periodical"><em><strong>Engineering Structures</strong>, Feb. 2024.</em></div>
     <div class="links">
@@ -45,6 +45,8 @@
       <a href="assets/publications/[1]/S0141029623016309.ris" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Cite</a>
       <a href="https://www.sciencedirect.com/journal/engineering-structures" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Journal website</a>
       <!-- <strong><i style="color:#7b5aa6">https://www.sciencedirect.com/journal/engineering-structures</i></strong> -->
+      <br>
+      <br>
     </div>
   </div>
 </div>
