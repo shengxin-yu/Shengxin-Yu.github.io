@@ -110,15 +110,14 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 ## My Life
 
 <details>
-    <summary><h4 style="margin:0 10px 0;">Travel & Photography (click here to see more)</h4></summary>
+    <summary><h4 style="margin:0 10px 0;">Travel & Photography (click to see more)</h4></summary>
     <p>
 <ul style="margin:0 0 20px;">
   <!-- <li>I like to help others and meet new friends, and I have participated in varous volunteer activities.</li> -->
-  <li>
+  <!-- <li> -->
     <div class="gallery-container">
         <div class="gallery-slider">
             <!-- <iframe src="assets/img/mylife/校园1.mp4" frameborder="0" width="700" height="400" allowfullscreen> </iframe> -->
-            <img src="assets/img/mylife/盐城1.jpg" alt="0"> 
             <img src="assets/img/mylife/旅行1.jpg" alt="Image 1">
             <img src="assets/img/mylife/旅行2.jpg" alt="Image 2">
             <img src="assets/img/mylife/旅行3.jpg" alt="Image 3">
@@ -128,6 +127,8 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
             <img src="assets/img/mylife/旅行7.jpg" alt="Image 7">
             <img src="assets/img/mylife/旅行8.jpg" alt="Image 8">
             <img src="assets/img/mylife/旅行9.jpg" alt="Image 9">
+            <img src="assets/img/mylife/盐城1.jpg" alt="0"> 
+            <img src="assets/img/mylife/上海1.jpg" alt="00"> 
             <!-- 更多图像 -->
             <!-- <video controls>
             <source src="assets/img/mylife/校园1.mp4" type="video/mp4">
@@ -142,7 +143,43 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
     </div>
 
 
-  </li>
+  <!-- </li> -->
+
+</ul>
+
+</p>
+</details>
+
+<details>
+    <summary><h4 style="margin:0 10px 0;">Sports and Arts (click to see more)</h4></summary>
+    <p>
+<ul style="margin:0 0 20px;">
+  <!-- <li>I like to help others and meet new friends, and I have participated in varous volunteer activities.</li> -->
+  <!-- <li> -->
+    <div class="gallery-container">
+        <div class="gallery-slider">
+            <!-- <iframe src="assets/img/mylife/校园1.mp4" frameborder="0" width="700" height="400" allowfullscreen> </iframe> -->
+            <img src="assets/img/mylife/艺术1.jpg" alt="Image 1">
+            <img src="assets/img/mylife/艺术2.jpg" alt="Image 2">
+            <img src="assets/img/mylife/艺术3.jpg" alt="Image 3">
+            <img src="assets/img/mylife/艺术4.jpg" alt="Image 4">
+            <img src="assets/img/mylife/运动1.jpg" alt="Image 5">
+            <img src="assets/img/mylife/运动2.jpg" alt="Image 6">
+            <!-- 更多图像 -->
+            <!-- <video controls>
+            <source src="assets/img/mylife/校园1.mp4" type="video/mp4">
+            您的浏览器不支持视频标签。
+            </video>
+            <video controls>
+            <source src="assets/img/mylife/校园2.mp4" type="video/mp4">
+            您的浏览器不支持视频标签。
+            </video> -->
+            <!-- 更多视频 -->
+        </div>
+    </div>
+
+
+  <!-- </li> -->
 
 </ul>
 

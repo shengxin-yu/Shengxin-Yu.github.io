@@ -34,27 +34,27 @@
     <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;"> -->
     <div>
       <!-- <img src="assets/img/UHPC_cover.jpg" class="teaser img-fluid z-depth-1"> -->
-      <img src="assets/img/UHPC_cover.jpg" alt="0">
+      <img src="assets/img/service/志愿1.png" alt="0">
       <!-- <abbr class="badge">UHPC</abbr> -->
     <!-- </div>
     <div> -->
-      <img src="assets/img/[1]_cover.jpg" alt="1">
+      <img src="assets/img/service/志愿2.png" alt="1">
       <!-- <abbr class="badge">UHPC</abbr> -->
     </div> 
     <div>
-      <img src="assets/img/[2]_cover.jpg" alt="2">
+      <img src="assets/img/service/志愿3.png" alt="2">
       <!-- <abbr class="badge">UHPC</abbr> -->
     <!-- </div>
     <div> -->
-      <img src="assets/img/[3]_cover.jpg" alt="3">
+      <img src="assets/img/service/志愿4.png" alt="3">
       <!-- <abbr class="badge">UHPC</abbr> -->
     </div> 
     <div>
-      <img src="assets/img/[4]_cover.jpg" alt="4">
+      <img src="assets/img/service/志愿5.png" alt="4">
       <!-- <abbr class="badge">UHPC</abbr> -->
     <!-- </div>
     <div> -->
-      <img src="assets/img/[5]_cover.jpg" alt="5">
+      <img src="assets/img/service/志愿6.png" alt="5">
       <!-- <abbr class="badge">UHPC</abbr> -->
     </div>    
   </div>
