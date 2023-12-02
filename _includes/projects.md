@@ -94,11 +94,11 @@ paper副本
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/projects/DP-bearing/DP-bearing_cover.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge"><p id="project_Journal_[1]">DP-bearing</p></abbr>
+    <abbr class="badge">DP-bearing</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>Design, Experiment and Simulation of Novel Multi-stage Isolation Bearings</a></div>
+    <div class="title"><a><p id="project_Journal_[1]">Design, Experiment and Simulation of Novel Multi-stage Isolation Bearings</p></a></div>
     <!-- <div class="title"><strong><i style="color:#7b5aa6">Design and Simulation of Gravity Blocks Made from Ultra-High Performance Concrete (UHPC)</i></strong></div> -->
     <div class="author"><strong>Supervisor:</strong> Prof. Cheng Fang & Assistant Prof. Yue Zheng, Tongji University </div>
     <div class="contribution"><strong>Main contribution:</strong> Conducting the design of UHPC gravity blocks and employing ABAQUS for modeling, calibrating the UHPC plastic damage CDP model, calculating earth pressure, etc. </div>
