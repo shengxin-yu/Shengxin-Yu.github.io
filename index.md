@@ -108,8 +108,11 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 
 
 ## My Life
-<h4 style="margin:0 10px 0;">Travel</h4>
+<h4 style="margin:0 10px 0;">Travel & Photography</h4>
 
+<details>
+    <summary>点击查看更多</summary>
+    <p>
 <ul style="margin:0 0 20px;">
   <!-- <li>I like to help others and meet new friends, and I have participated in varous volunteer activities.</li> -->
   <li>
@@ -124,6 +127,8 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
             <img src="assets/img/mylife/旅行5.jpg" alt="Image 5">
             <img src="assets/img/mylife/旅行6.jpg" alt="Image 6">
             <img src="assets/img/mylife/旅行7.jpg" alt="Image 7">
+            <img src="assets/img/mylife/旅行8.jpg" alt="Image 8">
+            <img src="assets/img/mylife/旅行9.jpg" alt="Image 9">
             <!-- 更多图像 -->
             <!-- <video controls>
             <source src="assets/img/mylife/校园1.mp4" type="video/mp4">
@@ -141,3 +146,6 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
   </li>
 
 </ul>
+
+</p>
+</details>
