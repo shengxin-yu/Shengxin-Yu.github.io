@@ -28,7 +28,7 @@
 <h4 style="margin:0 10px 0;">Voluntary Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>I like to help others and meet new friends, and I have participated in varous volunteer activities.</li>
+  <li>I like to help others and meet new friends, and I have participated in various volunteer activities.</li>
   <!-- <li> -->
   <div class="pub-row">
     <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;"> -->
