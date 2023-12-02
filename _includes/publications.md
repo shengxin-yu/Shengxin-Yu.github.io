@@ -62,7 +62,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><h2 id="Publication_Journal_[3]">Journal_[3]<em><a href="https://shengxinyu.netlify.app/#Project_Deep learning">    [Link to project]</a></em></h2> <a href="assets/publications/[3]/Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering.pdf">Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering</a></div>
+    <div class="title"><h2 id="Publication_Journal_[3]">Journal_[3]<em><a href="https://shengxinyu.netlify.app/#Project_Deep Learning">    [Link to project]</a></em></h2> <a href="assets/publications/[3]/Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering.pdf">Deep Learning-Based Computer Vision for Health Monitoring in Civil Engineering</a></div>
     <div class="author">Cheng Fang, <strong>Shengxin Yu (Corresponding author)</strong>, Yonggang Li, Wanglong Jia, Pengbo Yang, Xinyue Yang</div>
     <div class="periodical"><em><strong>Journal of Tongji University (Natural Science)(EI)</strong>, Feb. 2024.</em></div>
     <div class="links">
