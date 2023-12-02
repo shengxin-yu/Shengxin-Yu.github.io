@@ -110,7 +110,7 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 ## My Life
 
 <details>
-    <summary><h4 style="margin:0 10px 0;">Travel & Photography</h4></summary>
+    <summary><h4 style="margin:0 10px 0;">Travel & Photography (click here to see more)</h4></summary>
     <p>
 <ul style="margin:0 0 20px;">
   <!-- <li>I like to help others and meet new friends, and I have participated in varous volunteer activities.</li> -->
