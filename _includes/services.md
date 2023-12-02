@@ -8,7 +8,7 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Assist Supervisor in Reviewing Journals</h4>
+<h4 style="margin:0 10px 0;">Participate in Reviewing Journals</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.sciencedirect.com/journal/case-studies-in-construction-materials" target="_blank"> Case Studies in Construction Materials </a></li>
@@ -28,5 +28,22 @@
 <h4 style="margin:0 10px 0;">Voluntary Activity</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>Participated in more than<a> 60 volunteer activities</a>, and volunteered for more than <a>240 hours.</a></li>
+  <li>I like to help others and meet new friends, and I have participated in varous volunteer activities.</a></li>
 </ul>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/UHPC_cover.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">UHPC</abbr>
+  </div>
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/UHPC_cover.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">UHPC</abbr>
+  </div>
+
+  
+</div>
+</li>
