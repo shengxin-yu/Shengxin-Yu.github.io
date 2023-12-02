@@ -83,9 +83,6 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**. -->
 
 
-{% include_relative _includes/services.md %}
-
-
 ## More Information
 <h4 style="margin:0 10px 0;">Education</h4>
 
@@ -99,6 +96,12 @@ In my life, I am a sunny, strong-minded, and optimistic person. I like traveling
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
 <!-- - <a href="assets/transcript/Attachment_Transcript for Graduate Student.pdf" target="_blank">*Attachment_1_Transcript for Graduate Student*</a> in Tongji University
 - <a href="assets/transcript/Attachment_Bachelor's Academic Transcript (Credit System).pdf" target="_blank">*Attachment_2_Bachelor's Academic Transcript (Credit System)*</a> in Dalian University of Technology  -->
+
+
+
+
+
+{% include_relative _includes/services.md %}
 
 
 
