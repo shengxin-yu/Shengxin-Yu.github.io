@@ -103,14 +103,14 @@ paper副本
     <div class="author"><strong>Supervisor:</strong> Prof. Cheng Fang & Assistant Prof. Yue Zheng, Tongji University </div>
     <div class="contribution"><strong>Main contribution:</strong> Fully responsible for structural design, material property testing, quasi-static testing, ABAQUS simulation, OpenSees simulation, and related tasks, etc. </div>
     <div class="periodical"><strong>Research Findings:</strong> Journals [1]-accepted<em><a href="https://shengxinyu.netlify.app/#Publication_Journal_[1]">[Link]</a></em> and [2]-ongoing<em><a href="https://shengxinyu.netlify.app/#Publication_Journal_[2]">[Link]</a></em>, Patents [1]- authorized<em><a href="https://shengxinyu.netlify.app/#Publication_Patent_[1]">[Link]</a></em> and [2]-ongoing<em><a href="https://shengxinyu.netlify.app/#Publication_Patent_[2]">[Link]</a></em>.</div>
-    <div class="links">
-    <a href="assets/projects/UHPC/Simulation of Gravity Blocks.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a>
+    <!-- <div class="links">
+    <a href="assets/projects/UHPC/Simulation of Gravity Blocks.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Simulation</a> -->
       <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
-    </div>
+    <!-- </div> -->
   </div>
 </div>
 </li>
